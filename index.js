@@ -9,7 +9,7 @@ const ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';                //
 const ARGO_AUTH = process.env.ARGO_AUTH || '';                    // 
 const CFIP = process.env.CFIP || 'government.se';                 // 
 const CFPORT = process.env.CFPORT || 443;                         // 
-const NAME = process.env.NAME || 'back11';                           // 
+const NAME = process.env.NAME || 'ba4';                           // 
 const ARGO_PORT = process.env.ARGO_PORT || 8080;                  // 
 const PORT = process.env.SERVER_PORT || process.env.PORT || 3000; // 
 
